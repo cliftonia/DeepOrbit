@@ -76,6 +76,5 @@ identifier_name:
 
 # Paths
 excluded:
-  - spritekitTests
-  - spritekitUITests
-  - spritekit.xcodeproj
+  - DeepOrbitTests
+  - DeepOrbit.xcodeproj

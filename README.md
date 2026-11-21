@@ -18,7 +18,7 @@ combat, inspired by *Star Reach* (1994). Built in SpriteKit with no third-party 
 - **Fleets**: ships you build join the fight
 - **Campaign**: win and lose states, with save and load
 
-Status: **1.0 complete**. Roadmap and milestones are in [`DEEPORBIT.md`](DEEPORBIT.md).
+Status: **1.0 complete**. Roadmap and milestones are in [`docs/roadmap.md`](docs/roadmap.md).
 
 ## Structure
 
@@ -35,8 +35,8 @@ Each screen is an `SKScene`, split into focused extensions:
 
 ## Running it
 
-Open `spritekit.xcodeproj` and run the **spritekit** scheme on an iOS simulator or device. Tests use Swift Testing:
-`xcodebuild test -project spritekit.xcodeproj -scheme spritekit -destination 'platform=iOS Simulator,name=iPhone 17'`.
+Open `DeepOrbit.xcodeproj` and run the **DeepOrbit** scheme on an iOS simulator or device. Tests use Swift Testing:
+`xcodebuild test -project DeepOrbit.xcodeproj -scheme DeepOrbit -destination 'platform=iOS Simulator,name=iPhone 18 Pro'`.
 
 ## Licence
 
