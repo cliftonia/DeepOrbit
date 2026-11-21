@@ -5,6 +5,7 @@
 //  Created by Clifton Baggerman on 28/03/2026.
 //
 
+import Foundation
 import Testing
 @testable import spritekit
 
